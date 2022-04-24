@@ -434,6 +434,7 @@ function Demo() {
 
 | 属性 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| ariaId | 指定弹出层 wrapper 节点的 id，无障碍时有用 | string |  | 2.10.0  |
 | autoAdjustOverflow | 弹出层被遮挡时是否自动调整方向 | boolean | true |  |
 | arrowPointAtCenter | “小三角”是否指向元素中心，需要同时传入"showArrow=true" | boolean | true | **0.34.0** |
 | content | 弹出层内容 | string\|ReactNode |  |  |

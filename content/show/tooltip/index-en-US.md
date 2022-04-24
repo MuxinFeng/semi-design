@@ -401,6 +401,7 @@ import { Popconfirm, Tooltip, Button } from '@douyinfe/semi-ui';
 
 | Properties | Instructions | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| ariaId | id of portal wrapper, useful for A11y ARIA | string |  | 2.10.0  |
 | autoAdjustOverflow | Whether the floating layer automatically adjusts its direction when it is blocked | boolean | true |  |
 | arrowPointAtCenter | Whether the "small triangle" points to the center of the element, you need to pass in "showArrow = true" at the same time | boolean | true | **0.34.0** |
 | className | Pop-up layer classname | string |  |  |
